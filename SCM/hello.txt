@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+source code management
+=======
+hello i am shivangi
+>>>>>>> e814cc5ecc12b047619598ecbc7474be7a8cae10
